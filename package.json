@@ -1,4 +1,9 @@
 {
   "name": "jquery-autogrow",
-  "version": "1.0.0"
+  "version": "1.0.4",
+  "author": {
+    "name": "Jason Edelman",
+    "url": "https://github.com/ultimatedelman/autogrow/blob/master/README.md"
+  },
+  "main": "autogrow.js"
 }
